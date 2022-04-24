@@ -1,5 +1,5 @@
 # Campaign Wallet! <img src="img/campaign_finance_logo.png" alt="icon" width="25"/> 
-## Find Our Website [Here!](https://campaignwallet.github.io/CampaignWallet/)
+## Visit Our Website [Here!](https://campaignwallet.github.io/CampaignWallet/)
 
 
 <!--
