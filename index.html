@@ -53,7 +53,9 @@
 
     <div id="nav-placeholder"></div>
     <script>
-        document.getElementById('nav-placeholder').load("_includes/navigation.html");
+        function load_home() {
+          document.getElementById("nav-placeholder").innerHTML='<object type="text/html" data="_includes/navigation.html" ></object>';
+        }
     </script>
 
     <!-- MAIN CONTENT -->
