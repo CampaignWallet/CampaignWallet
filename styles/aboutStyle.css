@@ -1,17 +1,17 @@
-body{
+#about-style-div body{
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
 }
   
-html{
+#about-style-div html{
     box-sizing: border-box;
 }
   
-*, *:before, *:after {
+#about-style-div *, *:before, *:after {
     box-sizing: inherit;
 }
 
-.profile-photo{
+#about-style-div .profile-photo{
       position:relative;
       margin:0 auto;
       max-width:739px;
@@ -25,44 +25,44 @@ html{
       -ms-box-shadow:none
 }
   
-.row{
+#about-style-div .row{
     background-color: #f1f1f1;
 }
 
-.column {
+#about-style-div .column {
     float: left;
     width: 33.3%;
     margin-bottom: 16px;
     padding: 0 8px;
 }
   
-.card {
+#about-style-div .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
 }
   
-.about-section {
+#about-style-div .about-section {
     padding: 50px;
     text-align: center;
     background-color: #474e5d;
     color: white;
 }
   
-.container {
+#about-style-div .container {
     padding: 0 16px;
 }
   
-.container::after, .row::after {
+#about-style-div .container::after, .row::after {
     content: "";
     clear: both;
     display: table;
 }
   
-.title {
+#about-style-div .title {
     color: grey;
 }
   
-.button {
+#about-style-div .button {
     border: none;
     outline: 0;
     display: inline-block;
@@ -74,11 +74,11 @@ html{
     width: 100%;
 }
   
-.button:hover {
+#about-style-div .button:hover {
     background-color: #555;
 }
 
-#about-us-title{
+#about-style-div #about-us-title{
     color:white;
 }
   
