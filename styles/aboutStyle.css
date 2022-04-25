@@ -11,7 +11,7 @@ html{
     box-sizing: inherit;
 }
 
-img{
+.profile-photo{
       position:relative;
       margin:0 auto;
       max-width:739px;
@@ -47,10 +47,6 @@ img{
     background-color: #474e5d;
     color: white;
 }
-
-#about-us-title{
-    color:white;
-}
   
 .container {
     padding: 0 16px;
@@ -80,6 +76,10 @@ img{
   
 .button:hover {
     background-color: #555;
+}
+
+#about-us-title{
+    color:white;
 }
   
 @media screen and (max-width: 650px) {
