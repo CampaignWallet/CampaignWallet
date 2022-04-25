@@ -7,6 +7,7 @@ ul{
 li{
     float: left;
     border-right: 1px solid #bbb;
+    border-left: 1px solid #bbb;
 }
 
 li a{
@@ -20,8 +21,4 @@ li a{
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #111;
-}
-
-nav{
-    height: "10";
 }
