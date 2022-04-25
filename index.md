@@ -1,4 +1,3 @@
-{% include navigation.html %}
 # About Our Project
 The project aims to improve transparency in campaign finance information. 
 
