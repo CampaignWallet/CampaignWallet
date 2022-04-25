@@ -31,7 +31,7 @@
 
 #about-style-div .column {
     float: left;
-    width: 30%;
+    width: 31%;
     margin-bottom: 16px;
     padding: 0 8px;
 }
@@ -39,6 +39,7 @@
 #about-style-div .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     margin: 8px;
+    width: 90%;
 }
   
 #about-style-div .about-section {
@@ -50,6 +51,7 @@
   
 #about-style-div .container {
     padding: 0 16px;
+    text-align: center;
 }
   
 #about-style-div .container::after, .row::after {
